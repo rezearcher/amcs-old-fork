@@ -4117,6 +4117,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 MCP servers for job search and career platforms.
 
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
+- [rezearcher/jobs-mcp-server](https://github.com/rezearcher/jobs-mcp-server) [![rezearcher/jobs-mcp-server MCP server](https://glama.ai/mcp/servers/rezearcher/jobs-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/rezearcher/jobs-mcp-server) 📇 🏠 - Live, normalized job postings across 8 ATS platforms (Greenhouse, Lever, Ashby, SmartRecruiters, Workday, Recruitee, Workable, BambooHR) with company auto-detection — one tool call, one schema, no API key or account, zero dependencies.
 
 ### 🔒 <a name="security"></a>Security
 
